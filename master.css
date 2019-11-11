@@ -1,0 +1,188 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+.container{
+Width:100%;
+}
+.title{
+  background: skyblue;
+  height: 60px;
+  width: 100%;text-align: center;line-height: 60px;color: Red;
+}
+.menu{
+  Height:40px;
+  width:100%;
+  background: Orange;
+}
+
+.menu ul{
+  margin: 0px; padding: 0px;line-height: 40px;
+}
+.menu ul li{
+   display: inline; background: blue;height: 40px;width: 270px;float: left;text-align: center;margin-right: 1px;
+}
+.menu ul li a{
+  text-decoration: none;color: White; font-size:20px;
+}
+.menu ul li a:hover{
+  color: black;
+}
+.content{
+   width: 75%;
+   height: 400px;
+   float: left;
+}
+.content img{
+   width: 100%;
+   height: 400px;
+   float: left;
+}
+.myimage{
+  width: 25%;
+  background: darkgray;
+  float: left;
+  height: 400px;
+}
+.myimage img{
+  width: 75%;
+  height: 200px;
+  margin-left: 25%;
+  border-radius: 60px;
+}
+.myimage p{
+  margin-top: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: justify;
+}
+.footerClass{
+  background: red;
+  height:50px;
+  width:100%;
+  float: left;
+}
+.educationcontent
+{
+  Width:50%;height:281px; background: darkgray;
+}
+.educationcontent p{
+  padding-left: 30px;padding-right:30px;padding-top: 20px;
+}
+.educationcontent ul{
+  padding-left: 30px;
+}
+
+
+.educationinformatin{
+  width: 50%;height:100px;background: pink;
+}
+.educationinformatin ul{
+    padding-left: 25px;
+}
+.educationinformatin ul li{
+  padding-top: 10px;
+}
+.working{
+    width: 50%;height:250px;background: Orange;
+}
+.working ul{
+  padding-left: 20px;
+}
+.working p{
+  padding-left: 20px;
+}
+.imagecontent{
+  width:50%;float:right;background: #00bcd447;height:351px;
+}
+.imagecontent img{
+  height: 300px;padding-left: 25px;border-radius: 20px;padding-top: 10px;
+}
+
+
+.imagecontent p{
+  padding-left:20px;padding-top: 15px;
+}
+.lumbani{
+  width:50%;float:right;background: #0072ff12;
+}
+.lumbani img{
+  height:230px; padding-left: 20px;
+}
+.lumbani p{
+  padding-left: 20px;
+}
+.educationimage{
+  Width:100%;
+}
+.educationimage img
+{
+  width:75%;
+}
+.educationimage p{
+  padding-left: 20px;
+}
+.educationfooter{
+  width:100%;height :50px; background:#a52a2a40;
+}
+.educationpass{
+  width:25%;float:right; background: #e91e636b;height:632px;
+}
+.educationpass ul{
+  padding-left: 20px;margin-top: 10px;
+}
+.educationpass p{
+  padding-left: 20px;padding-right: 20px;margin-top: 10px;
+}
+.imagecontact{
+  width:100%; background:#e91e633d;height:772px;
+}
+.imagecontact img{
+  width:100%;height:350px;
+}
+.imagecontact p
+{
+  padding-left: 15px;
+}
+.contactinfo{
+  width:100%;float:right;position: relative;color:yellow;font-size: 20px;Height:400px;
+}
+.contactinfo img{
+   width:100px; height:400px;
+}
+.top{
+  position:absolute;height:8px;padding-top: 20px;padding-left: 84px;
+}
+.Nepal{
+  width:30%;height:300px;background: red;
+}
+.nepal img{
+  width:100%;height:348px;
+}
+.contactmail{
+  width:100%;background:#d2b48c80;height:432px;margin-top: 10px;
+}
+.contactmail ul li{
+  padding-left: 50px;
+}
+.contactmail p{
+  padding-left: 50px;padding-top: 20px;
+}
+.contactaddress{
+  width:50%;height:275px;float:left;
+}
+.contactpost{
+  width: 50%;height:275px;float:right;
+}
+.contactpost form input {
+  width:50%;box-sizing: border-box;padding:7px 7px;border: 2px solid blue; margin: 7px 0;
+}
+.contactpost form label{
+  padding-left: 110px; font-size: 20px;
+}
+.contactpost form text input{
+  box-sizing: border-box;padding :50px 50px;
